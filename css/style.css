@@ -1,0 +1,67 @@
+body{
+    background-color:#243E65 !important;
+    width: 100%;
+    height: 10vh;
+    ;
+    color:#fff !important
+}
+.navbar{
+    background-color: #364E70;
+    
+}
+
+i{
+    color:#07A6DA;
+}
+a{
+  color: #fff !important;
+  /* padding: 25px !important; */
+  width: 150px;
+  text-align: center;
+  
+}
+a:hover{
+    /* border-style: solid; */
+    background-color: #243E65;
+    border-color: #07A6DA;
+    border-radius: 10%;
+}
+button>i{
+    color:#020112;
+    padding: 10px;
+}
+button{
+    color:#fff;
+    font-size: 18px !important;
+    width: 150px;
+
+}
+.card{
+    background-image: linear-gradient(to bottom left ,#154182,rgb(9, 17, 44));
+    border:none !important
+}
+.cityName{
+  border: solid 2px ;
+  width: 400px;
+  border-radius: 20px;
+  
+  background-color:#07A6DA;
+  
+
+}
+.footer-icons {
+    width: 20px;
+    height: 20px;
+   
+}
+p.i{
+    color:#797D87
+}
+input{
+    border-radius: 20px;
+
+}
+.social>span>a>i{
+    font-size: 28px;
+    padding: 10px;
+}
